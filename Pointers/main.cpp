@@ -5,6 +5,7 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "Russian");
+
 #ifdef POINTERS_BASICS
 	int a = 2;
 	int* pa = &a;
